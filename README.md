@@ -5,17 +5,17 @@ Analyzing flight delay patterns using **SQL queries** and **Pandas DataFrames** 
 ---
 
 ## 📘 Overview  
-This project investigates the relationship between weather conditions—such as **precipitation, temperature, and wind**—and flight delays.  
+This project investigates the relationship between weather conditions such as **precipitation, temperature, and wind** and flight delays.  
 By combining flight and weather datasets, we use SQL and Python-based analytics to clean, merge, and visualize data, uncovering key patterns that contribute to delays in air travel.
 
 ---
 
 ## 👥 Team Members  
-- **Steven Gourgy**  
-- **George Ezzat**  
-- **Geon Kim**  
+- **Geon Kim**
+- **George Ezzat**   
 - **Jutipong Puntuleng**  
 - **Melissa MacNab**
+- **Steven Gourgy**  
 
 ---
 

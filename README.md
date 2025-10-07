@@ -1,9 +1,6 @@
 # Flight-Delay-Prediction
 Analyzing flight delay patterns using SQL queries and pandas data frames to explore weather impacts.
 
-# Flight-Delay-Prediction
-Analyzing flight delay patterns using SQL queries and pandas data frames to explore weather impacts.
-
 ## Overview
 This project explores how different weather conditions—such as precipitation, temperature, and wind—affect flight delays.  
 Using Python and SQL, we clean, join, and analyze datasets to uncover trends and correlations between weather patterns and flight delay times.
